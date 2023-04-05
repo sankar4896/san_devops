@@ -10,3 +10,5 @@ india
 121212
 010101
 project wiki
+do bath
+twice a day
