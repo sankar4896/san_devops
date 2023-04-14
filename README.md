@@ -31,3 +31,6 @@ we are
 join
 smoke test
 unit test
+hi
+all
+
