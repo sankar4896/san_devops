@@ -29,3 +29,5 @@ three
 hi
 we are
 join
+smoke test
+unit test
