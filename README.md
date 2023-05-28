@@ -2,7 +2,6 @@
 sankar devops
 second update on 03/28/2023
 yum update
-no update
 
 
 
